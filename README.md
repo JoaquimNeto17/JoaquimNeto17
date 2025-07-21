@@ -1,7 +1,7 @@
 <h1 align="center">
   Olá! 👋 Eu sou o Joaquim Neto
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00B5B2&center=true&vCenter=true&width=380&lines=Desenvolvedor+Front-End;Criador+de+Sites+Modernos;Apaixonado+por+Design+Responsivo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00B5B2&center=true&vCenter=true&width=380&lines=Desenvolvedor+Front-End;Aluno+Senai;Apaixonado+por+Design+Responsivo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,6 +9,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<hr>
+
+<h2 align="center">🚀 Animação CSS Personalizada</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/200w.gif" width="100" alt="Loading Animation" />
+</p>
 
 ```html
 <div class="loader"></div>
@@ -28,3 +35,7 @@
   100% { transform: rotate(360deg); }
 }
 </style>
+```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=radical&hide_title=true" />
+</p>
