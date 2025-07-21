@@ -1,50 +1,45 @@
-# Olá! 👋 Eu sou o Joaquim Neto, Bem-Vindo ao meu GitHub  
-Desenvolvedor Front-End  
+<h1 align="center">
+  Olá! 👋 Eu sou o Joaquim Neto, Bem-Vindo ao meu GitHub
+  <br/>
+  <span style="font-size: 18px; color: #00B5B2; font-weight: 500;">Desenvolvedor Front-End</span>
+</h1>
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+<hr>
 
-### 📊 Estatísticas do GitHub  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="GitHub Stats" />
-</div>
-
----
-
-### 🚀 Tecnologias  
-<p>
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimNeto17&layout=compact&langs_count=10&theme=radical&hide_title=true" alt="Linguagens mais usadas"/>
 </p>
 
----
+<hr>
 
-### 📅 Meu Calendário de Contribuições
+<h2 align="center">🚀 Tecnologias</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+</p>
 
-<div id="github-calendar"></div>
+<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<script src="https://cdn.jsdelivr.net/npm/github-calendar@latest/dist/github-calendar.min.js"></script>
-<script>
-  GitHubCalendar("#github-calendar", "seu-usuario", {
-    responsive: true,
-    global_stats: true,
-  }).then(() => {
-    // animação simples ao carregar
-    const calendar = document.querySelector("#github-calendar");
-    calendar.style.opacity = 0;
-    calendar.style.transition = "opacity 1s ease-in-out";
-    setTimeout(() => {
-      calendar.style.opacity = 1;
-    }, 100);
-  });
-</script>
+<hr>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Rocket Animation" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoaquimNeto17&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Gráfico de Contribuições"/>
+</p>
