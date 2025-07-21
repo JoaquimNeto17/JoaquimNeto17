@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Joaquim Neto!</h1>
-<h3 align="center">🚀 Desenvolvedor Front-end apaixonado</h3>
+<h3 align="center">🚀 Desenvolvedor Front-end </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+Python;Aluno+Senai;Bem-vindo+ao+meu+universo+dev!" alt="Typing SVG" />
