@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá! 👋 Eu sou o Joaquim Neto
+  Olá! 👋 Eu sou o Joaquim Neto, Bem-Vindo ao meu GitHub
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00B5B2&center=true&vCenter=true&width=380&lines=Desenvolvedor+Front-End;Aluno+Senai" alt="Typing SVG" />
 </h1>
@@ -11,14 +11,33 @@
 
 <hr>
 
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/200w.gif" width="100" alt="Loading Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimNeto17&layout=compact&langs_count=10&theme=radical&hide_title=true&hide=typescript" alt="Linguagens mais usadas"/>
 </p>
 
+<hr>
 
+<h2 align="center">🚀 Tecnologias</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+</p>
+
+<hr>
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/200w.gif" width="100" alt="Loading Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoaquimNeto17&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Gráfico de Contribuições"/>
 </p>
