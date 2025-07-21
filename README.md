@@ -27,17 +27,8 @@
 </p>
 
 <hr>
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <hr>
 
 <p align="center">
   <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/200w.gif" width="100" alt="Loading Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoaquimNeto17&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Gráfico de Contribuições"/>
 </p>
