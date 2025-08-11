@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Joaquim Neto!</h1>
-<h3 align="center">🚀 Desenvolvedor Front-end </h3>
+<h3 align="center">🚀 Aluno Senai </h3>
 
 <!-- GIF animado -->
 <p align="center">
