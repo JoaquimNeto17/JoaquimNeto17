@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Joaquim Neto!</h1>
-<h3 align="center">🚀 Aluno Senai </h3>
+<h3 align="center">🚀 Aluno Senai | Desenvolvedor em formação</h3>
 
 <!-- GIF animado -->
 <p align="center">
@@ -8,7 +8,7 @@
 
 <!-- Animação de texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+Python;Aluno+Senai;Bem-vindo+ao+meu+universo+dev!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+SQL+%7C+Tailwind;Aluno+Senai;Bem-vindo+ao+meu+universo+dev!" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,9 +16,12 @@
 ### 🛠️ Tecnologias aprendidas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
 <!-- Loader animado -->
