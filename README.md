@@ -124,13 +124,28 @@ Tenho conhecimentos em **HTML, CSS, JavaScript, React, React Native, Expo Go, Py
 ## Projetos em destaque
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+### Binho Celulares
+
+Site desenvolvido para a **Binho Celulares**.
+
+**Tecnologias**
+
+`HTML` `CSS` `JavaScript`
+
+[ACESSAR SITE](https://binhocelulares.com.br)
+
+</td>
 
 <td width="50%" valign="top">
 
 ### GEO MUNDO
 
-Projeto educacional de geografia desenvolvido para tornar o aprendizado mais interativo através de atividades e jogos.
+Projeto educacional de geografia desenvolvido para tornar o aprendizado mais interativo.
 
 **Tecnologias**
 
@@ -139,6 +154,10 @@ Projeto educacional de geografia desenvolvido para tornar o aprendizado mais int
 [ACESSAR PROJETO](https://geoeduca-uh27.onrender.com/index.html)
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -154,10 +173,6 @@ Portal educacional desenvolvido para auxiliar atividades de alfabetização infa
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### Chat Bot com IA
@@ -172,11 +187,15 @@ Projeto conceitual desenvolvido para explorar aplicações de Inteligência Arti
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### DriveSafe
 
-Aplicação mobile desenvolvida com foco em segurança e análise de movimento através dos sensores do dispositivo.
+Aplicação mobile desenvolvida utilizando tecnologias de desenvolvimento para dispositivos móveis.
 
 **Tecnologias**
 
@@ -186,7 +205,22 @@ Aplicação mobile desenvolvida com foco em segurança e análise de movimento a
 
 </td>
 
+<td width="50%" valign="top">
+
+### Mais projetos
+
+Outros projetos envolvendo desenvolvimento web, mobile, dados, IoT e tecnologia.
+
+**Áreas**
+
+`Web` `Mobile` `Dados` `IoT`
+
+[VER TODOS OS REPOSITÓRIOS](https://github.com/JoaquimNeto17?tab=repositories)
+
+</td>
+
 </tr>
+
 </table>
 
 <br>
@@ -205,20 +239,6 @@ Aplicação mobile desenvolvida com foco em segurança e análise de movimento a
 
 <br>
 
-## Atividade
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquimNeto17&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-<br>
-
 ## Contato
 
 <div align="center">
@@ -229,6 +249,10 @@ Aplicação mobile desenvolvida com foco em segurança e análise de movimento a
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://binhocelulares.com.br">
+  <img src="https://img.shields.io/badge/Binho%20Celulares-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
