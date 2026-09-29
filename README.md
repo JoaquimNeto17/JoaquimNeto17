@@ -260,9 +260,6 @@ Outros projetos envolvendo desenvolvimento web, mobile, dados, IoT e tecnologia.
 <br>
 
 <div align="center">
-
-### Código, aprendizado e evolução constante.
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:161B22,100:0D1117&height=120&section=footer"
