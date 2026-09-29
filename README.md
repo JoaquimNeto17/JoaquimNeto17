@@ -1,66 +1,193 @@
-<h1 align="center">👋 Olá, eu sou o Joaquim Neto!</h1>
-<h3 align="center">🚀 Aluno Senai | Desenvolvedor em formação</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaquimNeto17&color=blue&style=for-the-badge"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F80ED&height=180&section=header&text=Joaquim%20Neto&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20em%20formação%20%7C%20ADS%20%7C%20Tecnologia&descAlignY=55&descSize=16"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvimento+Web+%26+Software;JavaScript+%7C+Python+%7C+SQL;React+%7C+Inteligência+Artificial;Dados+%7C+Power+BI;Transformando+ideias+em+projetos." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+SQL+%7C+Tailwind;Aluno+Senai;Bem-vindo+ao+meu+universo+dev!" alt="Typing SVG" />
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=JoaquimNeto17&label=VISITAS+AO+PERFIL&color=2f80ed&style=for-the-badge" alt="Visualizações do perfil"/>
 
-# 👨‍💻 Sobre mim
+</div>
 
-🎓 Estudante do **SENAI** 💻 Focado em **Desenvolvimento Web** 🌱 Atualmente aprendendo **JavaScript, Python, SQL e Tailwind** 🚀 Buscando evoluir como **Desenvolvedor Full Stack**
+<br>
 
----
+## Sobre mim
 
-# 🛠️ Minha Stack & Ferramentas
+```javascript
+const joaquim = {
+  formação: "Análise e Desenvolvimento de Sistemas | SENAI",
+  foco: ["Desenvolvimento Web", "Software", "Dados"],
+  tecnologias: ["JavaScript", "Python", "SQL", "React", "Inteligência Artificial"],
+  interesses: ["Tecnologia", "IoT", "Dados", "UX/UI"],
+  objetivo: "Transformar ideias em soluções reais"
+};
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,mysql,vscode,git,github,figma" />
-</p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI**, com interesse em desenvolvimento de software, tecnologia e criação de soluções digitais.
 
----
+Tenho conhecimentos em **JavaScript, Python, SQL, React e Inteligência Artificial**, além de experiência com desenvolvimento web, banco de dados, análise de dados e ferramentas de desenvolvimento.
 
-# 📊 Estatísticas do GitHub
+<br>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=radical" alt="Joaquim GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimNeto17&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+## Tecnologias & Ferramentas
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=JoaquimNeto17&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+### Desenvolvimento
 
-# 🌎 Conecte-se comigo
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,py,tailwind&theme=dark" />
 
-<p align="center">
-  <a href="https://github.com/JoaquimNeto17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+### Banco de Dados & Dados
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoflorees/rodrigoflorees/main/images/code.gif" width="200" alt="loading animation">
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Inteligência%20Artificial-111827?style=for-the-badge&logo=openai&logoColor=white" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=100&section=footer"/>
-</p>
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
+
+</div>
+
+<br>
+
+## Conhecimentos e interesses
+
+- Desenvolvimento Web
+- Desenvolvimento Full Stack
+- React
+- JavaScript
+- Python
+- SQL e Banco de Dados
+- Inteligência Artificial
+- Power BI e análise de dados
+- IoT e eletrônica
+- UX/UI
+
+<br>
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### GEO MUNDO
+
+Projeto educacional de geografia desenvolvido para transformar o aprendizado em uma experiência mais interativa.
+
+**Tecnologias**
+
+`HTML` `CSS` `JavaScript`
+
+[ACESSAR PROJETO](https://geoeduca-uh27.onrender.com/index.html)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Portal Acácio Piedade
+
+Portal educacional criado para auxiliar atividades de alfabetização infantil e acompanhamento dos alunos.
+
+**Tecnologias**
+
+`React` `Vite` `Supabase`
+
+[ACESSAR PROJETO](https://portal-acacio-piedade-topaz.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Chat Bot com IA
+
+Projeto conceitual desenvolvido para explorar aplicações de Inteligência Artificial no atendimento digital.
+
+**Tecnologias**
+
+`Web` `JavaScript` `Inteligência Artificial`
+
+[ACESSAR PROJETO](https://chat-bot-front-beta.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mais projetos
+
+Projetos envolvendo desenvolvimento de software, aplicações web, dados, IoT e tecnologia.
+
+`Web Development`
+
+`Dados`
+
+`IoT`
+
+`UX/UI`
+
+[VER REPOSITÓRIOS](https://github.com/JoaquimNeto17?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaquimNeto17&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimNeto17&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=JoaquimNeto17&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+## Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquimNeto17&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<br>
+
+## Contato
+
+<div align="center">
+
+<a href="https://github.com/JoaquimNeto17">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Código, aprendizado e evolução constante.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:161B22,100:0D1117&height=120&section=footer"/>
+
+</div>
